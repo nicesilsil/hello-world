@@ -1,5 +1,7 @@
-# Related Projects
+Become a better ML researcher
 
-[N-innovation 2018](https://connect.navercorp.com/board/viewByArea/attn/1343187?page=1)
+Related Projects
 
-[광고 deep click prediction](https://yobi.navercorp.com/nInnovationAward/posts/321)
+> [N-innovation 2018](https://connect.navercorp.com/board/viewByArea/attn/1343187?page=1)
+
+> [광고 deep click prediction](https://yobi.navercorp.com/nInnovationAward/posts/321)
